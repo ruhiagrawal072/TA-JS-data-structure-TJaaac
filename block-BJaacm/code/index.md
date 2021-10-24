@@ -6,7 +6,7 @@ let user = {
 let allBrothers = ['Robb', 'Ryan', 'John'];
 let brothersCopy = user.sibling;
 let usename = user.name;
-let newUser = user;
+let newUser = user; 
 ```
 
 1. Memory representation
