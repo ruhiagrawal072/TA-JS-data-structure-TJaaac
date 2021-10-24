@@ -17,3 +17,4 @@
 // 9. Log all the element of the array one by one
 
 // 10. Find all the number in the array that is divisible by 3
+ 
