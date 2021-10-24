@@ -13,7 +13,7 @@ let age = 20;
 // - Add a new key `sur name` with the value of the surname of the character i.e "Stark". (Don't remove the space between `sur` and `name`)
 
 // - Add a new key `title` with the value title of the character i.e "Lady of Winterfell"
-
+ 
 // - Add another property named `greet` and value should be a function when called should alert `I am [NAME HERE] and my title is [TITLE HERE]`.
 
 // - Add a new property to the character object named `isFemale` and value will be `true`
