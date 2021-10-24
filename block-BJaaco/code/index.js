@@ -9,7 +9,7 @@ let userIds = [1230, 234, 1278, 984, 763, 900];
 // 3. Add all the odd numbers from both arrays numbers and userIds into a newly created array named `oddCollection`
 
 /*
-  @param means parameter
+  @param means parameter 
 
  4. Write a function named times which accets two parameter and return an array. 
 
