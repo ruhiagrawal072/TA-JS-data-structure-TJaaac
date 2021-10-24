@@ -6,7 +6,7 @@ obj = { surname: 'Stark' };
 let newObj = { name: 'Arya' };
 let user = obj;
 let arr = ['Hi'];
-let arr2 = arr;
+let arr2 = arr; 
 ```
 
 Answer the following with reason after going through the above code:
