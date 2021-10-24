@@ -18,3 +18,4 @@
 
 // 10. Find all the number in the array that is divisible by 3
  
+ 
