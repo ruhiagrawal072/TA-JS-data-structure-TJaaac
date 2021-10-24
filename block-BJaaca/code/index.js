@@ -7,7 +7,7 @@
 //  Re-assign the value of `character` variable to and object with the key `characterName` and value of "Arya"
 
 // - A variable named `age` is predefined with value 20. Add a new key named `character-age` with the value of `age` variable i.e 20 (don't use the value 20)
-
+ 
 let age = 20;
 
 // - Add a new key `sur name` with the value of the surname of the character i.e "Stark". (Don't remove the space between `sur` and `name`)
