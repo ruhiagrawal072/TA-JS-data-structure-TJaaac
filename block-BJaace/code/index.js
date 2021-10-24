@@ -14,7 +14,7 @@
 
 // 8. Write one line of code that changes the value of the last color in the list to "ultraviolet" (overwriting the previous value).
 
-// 9. Now, Find the length of the array named `colors`.
+// 9. Now, Find the length of the array named `colors`. 
 
 // 10. Create a new variable called fourthColor and set it equal to the fourth color in the list.
 
